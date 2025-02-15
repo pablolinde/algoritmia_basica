@@ -1,4 +1,4 @@
-# algoritmia_basica
+# basic_algorithms
 Este repositorio incluye algunas implementaciones algoritmicas básicas.
 
 El código en Avance_rapido asigna tareas a máquinas minimizando el tiempo total con un enfoque heurístico, incluye un script de validación. 
