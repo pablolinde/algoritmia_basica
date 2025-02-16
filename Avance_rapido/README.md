@@ -1,4 +1,3 @@
-```markdown
 The Problem:
 We have to write a program that selects the order of execution of the tasks eligible or candidates for execution, as well as the machine on which they should be executed, minimizing the accumulated execution time of the machines. The execution time of each task n on each machine m is known in advance.
 Specifically, the goal to minimize is the time at which the machine that finishes last completes its execution (what is known as the accumulated processing time). Any solution whose accumulated processing time is at most triple that of the basic solution devised by the professor will be accepted.
@@ -38,4 +37,3 @@ Example Output:
 16
 4 2 5 6 1 3 7
 3 5 1 3 5 2 4
-```
