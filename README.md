@@ -1,6 +1,7 @@
 # basic_algorithms
-Este repositorio incluye algunas implementaciones algoritmicas básicas.
 
-El código en Avance_rapido asigna tareas a máquinas minimizando el tiempo total con un enfoque heurístico, incluye un script de validación. 
-El script en Backtracking divide participantes en dos equipos equilibrados usando backtracking para explorar combinaciones y programación dinámica (memoización) para optimizarlo.
-El notebook en Dividiryvencer trata algoritmos de búsqueda y optimización con "divide y vencerás", generando grafos y encontrando rutas óptimas bajo restricciones.
+This repository includes some basic algorithmic implementations.
+
+The Avance_rapido code assigns tasks to machines by minimizing the total time with a heuristic approach, and it includes a validation script.
+The Backtracking script divides participants into two balanced teams using backtracking to explore combinations and dynamic programming (memoization) for optimization.
+The Dividiryvencer notebook discusses search and optimization algorithms using a divide and conquer approach, generating graphs and finding optimal routes under constraints.
