@@ -1,4 +1,4 @@
-# The Problem:
+The Problem:
 We have to write a program that selects the order of execution of the tasks eligible or candidates for execution, 
 as well as the machine on which they should be executed, minimizing the accumulated execution time of the machines. 
 The execution time of each task n on each machine m is known in advance.
